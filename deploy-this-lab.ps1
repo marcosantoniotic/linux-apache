@@ -2,7 +2,7 @@
 Write-Host "🚀 Iniciando deploy do laboratório Vagrant (lab-linux-apache)" -ForegroundColor Cyan
 
 # Caminho do repositório
-$repoUrl = "https://github.com/marnep/lab-linux-apache.git"
+$repoUrl = "https://github.com/marcosantoniotic/linux-apache.git"
 $folder = "$env:USERPROFILE\lab-linux-apache"
 
 # Clonar o repositório se não existir
