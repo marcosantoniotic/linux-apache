@@ -7,7 +7,7 @@ Este projeto configura automaticamente um ambiente de laboratório com Linux e A
 
 Clique no botão abaixo para executar automaticamente o ambiente Linux + Apache via PowerShell + Vagrant:
 
-[![Deploy this Lab](https://img.shields.io/badge/💻%20Deploy--this--Lab-blue?style=for-the-badge)](./deploy-this-lab.ps1)
+[![Deploy this Lab](https://img.shields.io/badge/💻%20Deploy--this--Lab-blue?style=for-the-badge)](./deploy-this-lab.url)
 
 > Esse script executa o provisionamento da máquina virtual com Apache automaticamente via PowerShell e Vagrant.
 

